@@ -44,3 +44,8 @@
     object-fit: contain;
     height: 115px;
 }
+
+.home__appsIcon,
+.home__avatar {
+    cursor: pointer;
+}
